@@ -1,3 +1,0 @@
-"0","""messy_cirrhosis.xlsx"" %>% "
-"0","  readxl::read_xlsx(col_names = F) -> messy_cirrhosis"
-"2","New names:"

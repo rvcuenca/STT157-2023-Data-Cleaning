@@ -1,2 +1,0 @@
-"0","tidy_cirrhosis_data %>% "
-"0","  write_csv(""./tidy_cirrhosis.csv"", col_names = T)"
