@@ -1,0 +1,161 @@
+Race,Hispanic,Sex,statin_id,statin_arm,mi_id,counts
+American Indian or Alaska Native,Hispanic,Male,Yes,Left,Yes,1
+American Indian or Alaska Native,Hispanic,Male,Yes,Left,No,4
+American Indian or Alaska Native,Hispanic,Male,Yes,Right,Yes,0
+American Indian or Alaska Native,Hispanic,Male,Yes,Right,No,2
+American Indian or Alaska Native,Hispanic,Male,No,Left,Yes,1
+American Indian or Alaska Native,Hispanic,Male,No,Left,No,3
+American Indian or Alaska Native,Hispanic,Male,No,Right,Yes,0
+American Indian or Alaska Native,Hispanic,Male,No,Right,No,1
+American Indian or Alaska Native,Hispanic,Female,Yes,Left,Yes,0
+American Indian or Alaska Native,Hispanic,Female,Yes,Left,No,3
+American Indian or Alaska Native,Hispanic,Female,Yes,Right,Yes,0
+American Indian or Alaska Native,Hispanic,Female,Yes,Right,No,0
+American Indian or Alaska Native,Hispanic,Female,No,Left,Yes,0
+American Indian or Alaska Native,Hispanic,Female,No,Left,No,2
+American Indian or Alaska Native,Hispanic,Female,No,Right,Yes,0
+American Indian or Alaska Native,Hispanic,Female,No,Right,No,1
+American Indian or Alaska Native,Not Hispanic,Male,Yes,Left,Yes,16
+American Indian or Alaska Native,Not Hispanic,Male,Yes,Left,No,88
+American Indian or Alaska Native,Not Hispanic,Male,Yes,Right,Yes,14
+American Indian or Alaska Native,Not Hispanic,Male,Yes,Right,No,90
+American Indian or Alaska Native,Not Hispanic,Male,No,Left,Yes,37
+American Indian or Alaska Native,Not Hispanic,Male,No,Left,No,59
+American Indian or Alaska Native,Not Hispanic,Male,No,Right,Yes,25
+American Indian or Alaska Native,Not Hispanic,Male,No,Right,No,114
+American Indian or Alaska Native,Not Hispanic,Female,Yes,Left,Yes,12
+American Indian or Alaska Native,Not Hispanic,Female,Yes,Left,No,90
+American Indian or Alaska Native,Not Hispanic,Female,Yes,Right,Yes,11
+American Indian or Alaska Native,Not Hispanic,Female,Yes,Right,No,95
+American Indian or Alaska Native,Not Hispanic,Female,No,Left,Yes,31
+American Indian or Alaska Native,Not Hispanic,Female,No,Left,No,66
+American Indian or Alaska Native,Not Hispanic,Female,No,Right,Yes,19
+American Indian or Alaska Native,Not Hispanic,Female,No,Right,No,110
+Asian,Hispanic,Male,Yes,Left,Yes,2
+Asian,Hispanic,Male,Yes,Left,No,4
+Asian,Hispanic,Male,Yes,Right,Yes,4
+Asian,Hispanic,Male,Yes,Right,No,7
+Asian,Hispanic,Male,No,Left,Yes,5
+Asian,Hispanic,Male,No,Left,No,8
+Asian,Hispanic,Male,No,Right,Yes,5
+Asian,Hispanic,Male,No,Right,No,9
+Asian,Hispanic,Female,Yes,Left,Yes,1
+Asian,Hispanic,Female,Yes,Left,No,3
+Asian,Hispanic,Female,Yes,Right,Yes,3
+Asian,Hispanic,Female,Yes,Right,No,6
+Asian,Hispanic,Female,No,Left,Yes,3
+Asian,Hispanic,Female,No,Left,No,9
+Asian,Hispanic,Female,No,Right,Yes,3
+Asian,Hispanic,Female,No,Right,No,8
+Asian,Not Hispanic,Male,Yes,Left,Yes,16
+Asian,Not Hispanic,Male,Yes,Left,No,87
+Asian,Not Hispanic,Male,Yes,Right,Yes,14
+Asian,Not Hispanic,Male,Yes,Right,No,89
+Asian,Not Hispanic,Male,No,Left,Yes,38
+Asian,Not Hispanic,Male,No,Left,No,57
+Asian,Not Hispanic,Male,No,Right,Yes,22
+Asian,Not Hispanic,Male,No,Right,No,76
+Asian,Not Hispanic,Female,Yes,Left,Yes,14
+Asian,Not Hispanic,Female,Yes,Left,No,90
+Asian,Not Hispanic,Female,Yes,Right,Yes,12
+Asian,Not Hispanic,Female,Yes,Right,No,92
+Asian,Not Hispanic,Female,No,Left,Yes,33
+Asian,Not Hispanic,Female,No,Left,No,64
+Asian,Not Hispanic,Female,No,Right,Yes,17
+Asian,Not Hispanic,Female,No,Right,No,82
+Black or African-American,Hispanic,Male,Yes,Left,Yes,4
+Black or African-American,Hispanic,Male,Yes,Left,No,14
+Black or African-American,Hispanic,Male,Yes,Right,Yes,6
+Black or African-American,Hispanic,Male,Yes,Right,No,18
+Black or African-American,Hispanic,Male,No,Left,Yes,9
+Black or African-American,Hispanic,Male,No,Left,No,11
+Black or African-American,Hispanic,Male,No,Right,Yes,6
+Black or African-American,Hispanic,Male,No,Right,No,18
+Black or African-American,Hispanic,Female,Yes,Left,Yes,4
+Black or African-American,Hispanic,Female,Yes,Left,No,15
+Black or African-American,Hispanic,Female,Yes,Right,Yes,4
+Black or African-American,Hispanic,Female,Yes,Right,No,19
+Black or African-American,Hispanic,Female,No,Left,Yes,7
+Black or African-American,Hispanic,Female,No,Left,No,13
+Black or African-American,Hispanic,Female,No,Right,Yes,5
+Black or African-American,Hispanic,Female,No,Right,No,20
+Black or African-American,Not Hispanic,Male,Yes,Left,Yes,44
+Black or African-American,Not Hispanic,Male,Yes,Left,No,145
+Black or African-American,Not Hispanic,Male,Yes,Right,Yes,60
+Black or African-American,Not Hispanic,Male,Yes,Right,No,184
+Black or African-American,Not Hispanic,Male,No,Left,Yes,88
+Black or African-American,Not Hispanic,Male,No,Left,No,106
+Black or African-American,Not Hispanic,Male,No,Right,Yes,64
+Black or African-American,Not Hispanic,Male,No,Right,No,178
+Black or African-American,Not Hispanic,Female,Yes,Left,Yes,38
+Black or African-American,Not Hispanic,Female,Yes,Left,No,163
+Black or African-American,Not Hispanic,Female,Yes,Right,Yes,49
+Black or African-American,Not Hispanic,Female,Yes,Right,No,191
+Black or African-American,Not Hispanic,Female,No,Left,Yes,73
+Black or African-American,Not Hispanic,Female,No,Left,No,121
+Black or African-American,Not Hispanic,Female,No,Right,Yes,51
+Black or African-American,Not Hispanic,Female,No,Right,No,191
+Native Hawaiian or Other Pacific Islander,Hispanic,Male,Yes,Left,Yes,3
+Native Hawaiian or Other Pacific Islander,Hispanic,Male,Yes,Left,No,5
+Native Hawaiian or Other Pacific Islander,Hispanic,Male,Yes,Right,Yes,5
+Native Hawaiian or Other Pacific Islander,Hispanic,Male,Yes,Right,No,8
+Native Hawaiian or Other Pacific Islander,Hispanic,Male,No,Left,Yes,6
+Native Hawaiian or Other Pacific Islander,Hispanic,Male,No,Left,No,10
+Native Hawaiian or Other Pacific Islander,Hispanic,Male,No,Right,Yes,6
+Native Hawaiian or Other Pacific Islander,Hispanic,Male,No,Right,No,11
+Native Hawaiian or Other Pacific Islander,Hispanic,Female,Yes,Left,Yes,2
+Native Hawaiian or Other Pacific Islander,Hispanic,Female,Yes,Left,No,5
+Native Hawaiian or Other Pacific Islander,Hispanic,Female,Yes,Right,Yes,4
+Native Hawaiian or Other Pacific Islander,Hispanic,Female,Yes,Right,No,7
+Native Hawaiian or Other Pacific Islander,Hispanic,Female,No,Left,Yes,4
+Native Hawaiian or Other Pacific Islander,Hispanic,Female,No,Left,No,11
+Native Hawaiian or Other Pacific Islander,Hispanic,Female,No,Right,Yes,4
+Native Hawaiian or Other Pacific Islander,Hispanic,Female,No,Right,No,11
+Native Hawaiian or Other Pacific Islander,Not Hispanic,Male,Yes,Left,Yes,20
+Native Hawaiian or Other Pacific Islander,Not Hispanic,Male,Yes,Left,No,66
+Native Hawaiian or Other Pacific Islander,Not Hispanic,Male,Yes,Right,Yes,28
+Native Hawaiian or Other Pacific Islander,Not Hispanic,Male,Yes,Right,No,87
+Native Hawaiian or Other Pacific Islander,Not Hispanic,Male,No,Left,Yes,41
+Native Hawaiian or Other Pacific Islander,Not Hispanic,Male,No,Left,No,58
+Native Hawaiian or Other Pacific Islander,Not Hispanic,Male,No,Right,Yes,32
+Native Hawaiian or Other Pacific Islander,Not Hispanic,Male,No,Right,No,91
+Native Hawaiian or Other Pacific Islander,Not Hispanic,Female,Yes,Left,Yes,17
+Native Hawaiian or Other Pacific Islander,Not Hispanic,Female,Yes,Left,No,77
+Native Hawaiian or Other Pacific Islander,Not Hispanic,Female,Yes,Right,Yes,25
+Native Hawaiian or Other Pacific Islander,Not Hispanic,Female,Yes,Right,No,93
+Native Hawaiian or Other Pacific Islander,Not Hispanic,Female,No,Left,Yes,36
+Native Hawaiian or Other Pacific Islander,Not Hispanic,Female,No,Left,No,59
+Native Hawaiian or Other Pacific Islander,Not Hispanic,Female,No,Right,Yes,24
+Native Hawaiian or Other Pacific Islander,Not Hispanic,Female,No,Right,No,88
+White,Hispanic,Male,Yes,Left,Yes,66
+White,Hispanic,Male,Yes,Left,No,242
+White,Hispanic,Male,Yes,Right,Yes,44
+White,Hispanic,Male,Yes,Right,No,147
+White,Hispanic,Male,No,Left,Yes,77
+White,Hispanic,Male,No,Left,No,94
+White,Hispanic,Male,No,Right,Yes,53
+White,Hispanic,Male,No,Right,No,157
+White,Hispanic,Female,Yes,Left,Yes,34
+White,Hispanic,Female,Yes,Left,No,135
+White,Hispanic,Female,Yes,Right,Yes,37
+White,Hispanic,Female,Yes,Right,No,164
+White,Hispanic,Female,No,Left,Yes,55
+White,Hispanic,Female,No,Left,No,194
+White,Hispanic,Female,No,Right,Yes,42
+White,Hispanic,Female,No,Right,No,167
+White,Not Hispanic,Male,Yes,Left,Yes,327
+White,Not Hispanic,Male,Yes,Left,No,1297
+White,Not Hispanic,Male,Yes,Right,Yes,223
+White,Not Hispanic,Male,Yes,Right,No,735
+White,Not Hispanic,Male,No,Left,Yes,378
+White,Not Hispanic,Male,No,Left,No,456
+White,Not Hispanic,Male,No,Right,Yes,252
+White,Not Hispanic,Male,No,Right,No,745
+White,Not Hispanic,Female,Yes,Left,Yes,167
+White,Not Hispanic,Female,Yes,Left,No,657
+White,Not Hispanic,Female,Yes,Right,Yes,198
+White,Not Hispanic,Female,Yes,Right,No,802
+White,Not Hispanic,Female,No,Left,Yes,289
+White,Not Hispanic,Female,No,Left,No,489
+White,Not Hispanic,Female,No,Right,Yes,198
+White,Not Hispanic,Female,No,Right,No,807

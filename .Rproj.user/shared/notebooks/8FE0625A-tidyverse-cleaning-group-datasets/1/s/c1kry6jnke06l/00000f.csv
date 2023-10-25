@@ -1,0 +1,2 @@
+"0","main_path <- ""https://github.com/higgi13425/medicaldata/raw/master/data-raw/messy_data/"""
+"0","base_names <- paste0(""messy_"",c(""infarct"",""glucose"",""aki"",""bp""),"".xlsx"")"

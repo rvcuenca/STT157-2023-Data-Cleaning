@@ -1,0 +1,100 @@
+---
+title: "Cleaning Messy Cirrhosis Data using Tidyverse"
+subtitle: "STT157: Exploratory Data Analysis"
+author: "**Prof. Rey R. Cuenca**<br/>*Math-Stat Dept., MSU-IIT*"
+format: html
+editor: visual
+# fontsize: 12pt
+toc: true
+---
+
+## Loading R Packages
+
+```{r}
+#| message: false
+#| warning: false
+
+# install.packages("tidyverse")
+library(tidyverse)
+```
+
+## Getting the Data
+
+```{r}
+"https://github.com/higgi13425/medicaldata/raw/master/data-raw/messy_data/messy_cirrhosis.xlsx" %>% {
+  download.file(
+    url = .,
+    destfile = paste0("./",basename(.)),
+    mode = "wb") # exclude mode = "wb" if you are not using Windows system
+}
+```
+
+## Reading the Data Set
+
+```{r}
+"messy_cirrhosis.xlsx" %>% 
+  readxl::read_xlsx(col_names = F) -> messy_cirrhosis
+```
+
+## Initial Inspection of the Data
+
+```{r}
+messy_cirrhosis
+# View(messy_cirrhosis)
+```
+
+```{r}
+summary(messy_cirrhosis)
+```
+
+```{r}
+str(messy_cirrhosis)
+```
+
+```{r}
+glimpse(messy_cirrhosis)
+```
+
+```{r}
+colnames(messy_cirrhosis)
+```
+
+## Actual Tidying of Messy Cirrhosis Data
+
+```{r}
+messy_cirrhosis %>% 
+  slice(-(1:3)) %>%
+  "["(,-3) %>% 
+  set_names(c("cirrho_type", 
+              "sex", 
+              paste0("a",rep(1:2,each = 2),
+                     ".s",c("n","y")))) %>% 
+  mutate(cirrho_type = if_else(is.na(cirrho_type), 
+                               lag(cirrho_type), cirrho_type)) %>% 
+  mutate(across(a1.sn:a2.sy, ~as.integer(.x))) %>% 
+  pivot_longer(names_to = "AS", 
+               values_to = "count", 
+               cols = a1.sn:a2.sy) %>% 
+  separate(AS, c("age","surv_id")) %>% 
+  mutate(
+    age = factor(age, 
+                 levels = c("a1","a2"), 
+                 labels = c("Under 18","Adult")),
+    surv_id = factor(surv_id, 
+                     levels = c("sn","sy"), 
+                     labels = c("No","Yes"))
+    ) -> tidy_cirrhosis_data
+```
+
+## Viewing the Data Set
+
+```{r}
+tidy_cirrhosis_data
+```
+
+## Exporting/Saving the Cleaned Cirrhosis Data
+
+```{r}
+tidy_cirrhosis_data %>% 
+  write_csv("./tidy_cirrhosis.csv", col_names = T)
+```

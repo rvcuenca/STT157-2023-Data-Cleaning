@@ -1,0 +1,33 @@
+cirrho_type,sex,age,surv_id,count
+Hepatitis C,Male,Under 18,No,0
+Hepatitis C,Male,Under 18,Yes,2
+Hepatitis C,Male,Adult,No,84
+Hepatitis C,Male,Adult,Yes,311
+Hepatitis C,Female,Under 18,No,0
+Hepatitis C,Female,Under 18,Yes,1
+Hepatitis C,Female,Adult,No,37
+Hepatitis C,Female,Adult,Yes,189
+Hepatitis B,Male,Under 18,No,3
+Hepatitis B,Male,Under 18,Yes,9
+Hepatitis B,Male,Adult,No,14
+Hepatitis B,Male,Adult,Yes,63
+Hepatitis B,Female,Under 18,No,4
+Hepatitis B,Female,Under 18,Yes,11
+Hepatitis B,Female,Adult,No,13
+Hepatitis B,Female,Adult,Yes,77
+NAFLD,Male,Under 18,No,1
+NAFLD,Male,Under 18,Yes,11
+NAFLD,Male,Adult,No,111
+NAFLD,Male,Adult,Yes,476
+NAFLD,Female,Under 18,No,1
+NAFLD,Female,Under 18,Yes,7
+NAFLD,Female,Adult,No,38
+NAFLD,Female,Adult,Yes,213
+Inborn Metabolism,Male,Under 18,No,3
+Inborn Metabolism,Male,Under 18,Yes,17
+Inborn Metabolism,Male,Adult,No,17
+Inborn Metabolism,Male,Adult,Yes,73
+Inborn Metabolism,Female,Under 18,No,5
+Inborn Metabolism,Female,Under 18,Yes,16
+Inborn Metabolism,Female,Adult,No,15
+Inborn Metabolism,Female,Adult,Yes,89

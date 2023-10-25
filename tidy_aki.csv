@@ -1,0 +1,121 @@
+study_id,birthdate,race,sex,hispanic,diagnosis,sediment,hd_catheter,av_fistula,day2_gfr_poor,Day,GFR
+1,11/11/1967,White,Male,Hispanic,hypotension,many granular,Yes,No,0,0,17
+1,11/11/1967,White,Male,Hispanic,hypotension,many granular,Yes,No,0,1,12
+1,11/11/1967,White,Male,Hispanic,hypotension,many granular,Yes,No,0,2,10
+1,11/11/1967,White,Male,Hispanic,hypotension,many granular,Yes,No,0,3,22
+1,11/11/1967,White,Male,Hispanic,hypotension,many granular,Yes,No,0,4,34
+1,11/11/1967,White,Male,Hispanic,hypotension,many granular,Yes,No,0,5,44
+2,12/11/1990,Caucasian,Female,Not Hispanic,sepsis,muddy brown,Yes,No,1,0,21
+2,12/11/1990,Caucasian,Female,Not Hispanic,sepsis,muddy brown,Yes,No,1,1,17
+2,12/11/1990,Caucasian,Female,Not Hispanic,sepsis,muddy brown,Yes,No,1,2,19
+2,12/11/1990,Caucasian,Female,Not Hispanic,sepsis,muddy brown,Yes,No,1,3,12
+2,12/11/1990,Caucasian,Female,Not Hispanic,sepsis,muddy brown,Yes,No,1,4,19
+2,12/11/1990,Caucasian,Female,Not Hispanic,sepsis,muddy brown,Yes,No,1,5,26
+3,5/5/1970,White,Male,Hispanic,bleeding out,many epithelial cell,No,No,0,0,32
+3,5/5/1970,White,Male,Hispanic,bleeding out,many epithelial cell,No,No,0,1,20
+3,5/5/1970,White,Male,Hispanic,bleeding out,many epithelial cell,No,No,0,2,15
+3,5/5/1970,White,Male,Hispanic,bleeding out,many epithelial cell,No,No,0,3,11
+3,5/5/1970,White,Male,Hispanic,bleeding out,many epithelial cell,No,No,0,4,15
+3,5/5/1970,White,Male,Hispanic,bleeding out,many epithelial cell,No,No,0,5,24
+3,6/3/1981,Other,Female,Not Hispanic,norovirus diarrhea,muddy brown,Yes,Yes,0,0,11
+3,6/3/1981,Other,Female,Not Hispanic,norovirus diarrhea,muddy brown,Yes,Yes,0,1,9
+3,6/3/1981,Other,Female,Not Hispanic,norovirus diarrhea,muddy brown,Yes,Yes,0,2,6
+3,6/3/1981,Other,Female,Not Hispanic,norovirus diarrhea,muddy brown,Yes,Yes,0,3,5
+3,6/3/1981,Other,Female,Not Hispanic,norovirus diarrhea,muddy brown,Yes,Yes,0,4,9
+3,6/3/1981,Other,Female,Not Hispanic,norovirus diarrhea,muddy brown,Yes,Yes,0,5,13
+4,6/7/1984,Af-am,Male,Not Hispanic,sepsis,muddy brown,Yes,No,0,0,15
+4,6/7/1984,Af-am,Male,Not Hispanic,sepsis,muddy brown,Yes,No,0,1,12
+4,6/7/1984,Af-am,Male,Not Hispanic,sepsis,muddy brown,Yes,No,0,2,9
+4,6/7/1984,Af-am,Male,Not Hispanic,sepsis,muddy brown,Yes,No,0,3,8
+4,6/7/1984,Af-am,Male,Not Hispanic,sepsis,muddy brown,Yes,No,0,4,11
+4,6/7/1984,Af-am,Male,Not Hispanic,sepsis,muddy brown,Yes,No,0,5,14
+5,4/9/1980,Black,Female,Hispanic,liver failure,many epithelial cell,No,No,0,0,33
+5,4/9/1980,Black,Female,Hispanic,liver failure,many epithelial cell,No,No,0,1,23
+5,4/9/1980,Black,Female,Hispanic,liver failure,many epithelial cell,No,No,0,2,17
+5,4/9/1980,Black,Female,Hispanic,liver failure,many epithelial cell,No,No,0,3,26
+5,4/9/1980,Black,Female,Hispanic,liver failure,many epithelial cell,No,No,0,4,38
+5,4/9/1980,Black,Female,Hispanic,liver failure,many epithelial cell,No,No,0,5,44
+6,1/13/1985,White,Female,Hispanic,pneumonia sepsis,many granular,No,No,0,0,26
+6,1/13/1985,White,Female,Hispanic,pneumonia sepsis,many granular,No,No,0,1,24
+6,1/13/1985,White,Female,Hispanic,pneumonia sepsis,many granular,No,No,0,2,19
+6,1/13/1985,White,Female,Hispanic,pneumonia sepsis,many granular,No,No,0,3,33
+6,1/13/1985,White,Female,Hispanic,pneumonia sepsis,many granular,No,No,0,4,39
+6,1/13/1985,White,Female,Hispanic,pneumonia sepsis,many granular,No,No,0,5,43
+7,11/15/1968,Asian,Female,Hispanic,line sepsis,many epithelial cell,No,No,0,0,43
+7,11/15/1968,Asian,Female,Hispanic,line sepsis,many epithelial cell,No,No,0,1,21
+7,11/15/1968,Asian,Female,Hispanic,line sepsis,many epithelial cell,No,No,0,2,26
+7,11/15/1968,Asian,Female,Hispanic,line sepsis,many epithelial cell,No,No,0,3,38
+7,11/15/1968,Asian,Female,Hispanic,line sepsis,many epithelial cell,No,No,0,4,47
+7,11/15/1968,Asian,Female,Hispanic,line sepsis,many epithelial cell,No,No,0,5,51
+8,10/12/2003,White,Male,Not Hispanic,NSAID tox,muddy brown,Yes,No,0,0,23
+8,10/12/2003,White,Male,Not Hispanic,NSAID tox,muddy brown,Yes,No,0,1,11
+8,10/12/2003,White,Male,Not Hispanic,NSAID tox,muddy brown,Yes,No,0,2,6
+8,10/12/2003,White,Male,Not Hispanic,NSAID tox,muddy brown,Yes,No,0,3,9
+8,10/12/2003,White,Male,Not Hispanic,NSAID tox,muddy brown,Yes,No,0,4,11
+8,10/12/2003,White,Male,Not Hispanic,NSAID tox,muddy brown,Yes,No,0,5,14
+8,4/22/1982,Mixed,Male,Not Hispanic,C diff diarrhea,many epithelial cell,No,No,0,0,55
+8,4/22/1982,Mixed,Male,Not Hispanic,C diff diarrhea,many epithelial cell,No,No,0,1,24
+8,4/22/1982,Mixed,Male,Not Hispanic,C diff diarrhea,many epithelial cell,No,No,0,2,28
+8,4/22/1982,Mixed,Male,Not Hispanic,C diff diarrhea,many epithelial cell,No,No,0,3,39
+8,4/22/1982,Mixed,Male,Not Hispanic,C diff diarrhea,many epithelial cell,No,No,0,4,36
+8,4/22/1982,Mixed,Male,Not Hispanic,C diff diarrhea,many epithelial cell,No,No,0,5,41
+11,11/6/1982,White,Female,Not Hispanic,burns,muddy brown,Yes,Yes,0,0,18
+11,11/6/1982,White,Female,Not Hispanic,burns,muddy brown,Yes,Yes,0,1,17
+11,11/6/1982,White,Female,Not Hispanic,burns,muddy brown,Yes,Yes,0,2,24
+11,11/6/1982,White,Female,Not Hispanic,burns,muddy brown,Yes,Yes,0,3,29
+11,11/6/1982,White,Female,Not Hispanic,burns,muddy brown,Yes,Yes,0,4,36
+11,11/6/1982,White,Female,Not Hispanic,burns,muddy brown,Yes,Yes,0,5,41
+12,7/9/1979,Caucasian,Male,Not Hispanic,pyelo,many epithelial cell,No,No,0,0,21
+12,7/9/1979,Caucasian,Male,Not Hispanic,pyelo,many epithelial cell,No,No,0,1,20
+12,7/9/1979,Caucasian,Male,Not Hispanic,pyelo,many epithelial cell,No,No,0,2,28
+12,7/9/1979,Caucasian,Male,Not Hispanic,pyelo,many epithelial cell,No,No,0,3,37
+12,7/9/1979,Caucasian,Male,Not Hispanic,pyelo,many epithelial cell,No,No,0,4,44
+12,7/9/1979,Caucasian,Male,Not Hispanic,pyelo,many epithelial cell,No,No,0,5,48
+13,5/11/1984,Black,Female,Not Hispanic,urethral obstruction,many epithelial cell,Yes,No,0,0,19
+13,5/11/1984,Black,Female,Not Hispanic,urethral obstruction,many epithelial cell,Yes,No,0,1,20
+13,5/11/1984,Black,Female,Not Hispanic,urethral obstruction,many epithelial cell,Yes,No,0,2,23
+13,5/11/1984,Black,Female,Not Hispanic,urethral obstruction,many epithelial cell,Yes,No,0,3,33
+13,5/11/1984,Black,Female,Not Hispanic,urethral obstruction,many epithelial cell,Yes,No,0,4,39
+13,5/11/1984,Black,Female,Not Hispanic,urethral obstruction,many epithelial cell,Yes,No,0,5,44
+14,4/7/2004,Af-am,Male,Hispanic,GI bleed,many granular,No,No,0,0,26
+14,4/7/2004,Af-am,Male,Hispanic,GI bleed,many granular,No,No,0,1,28
+14,4/7/2004,Af-am,Male,Hispanic,GI bleed,many granular,No,No,0,2,32
+14,4/7/2004,Af-am,Male,Hispanic,GI bleed,many granular,No,No,0,3,41
+14,4/7/2004,Af-am,Male,Hispanic,GI bleed,many granular,No,No,0,4,44
+14,4/7/2004,Af-am,Male,Hispanic,GI bleed,many granular,No,No,0,5,49
+15,3/8/1990,Asian,Male,Not Hispanic,sepsis,rare granular,No,No,0,0,36
+15,3/8/1990,Asian,Male,Not Hispanic,sepsis,rare granular,No,No,0,1,322
+15,3/8/1990,Asian,Male,Not Hispanic,sepsis,rare granular,No,No,0,2,28
+15,3/8/1990,Asian,Male,Not Hispanic,sepsis,rare granular,No,No,0,3,36
+15,3/8/1990,Asian,Male,Not Hispanic,sepsis,rare granular,No,No,0,4,39
+15,3/8/1990,Asian,Male,Not Hispanic,sepsis,rare granular,No,No,0,5,43
+16,9/6/1983,White,Male,Not Hispanic,salmonella,many granular,No,No,0,0,27
+16,9/6/1983,White,Male,Not Hispanic,salmonella,many granular,No,No,0,1,24
+16,9/6/1983,White,Male,Not Hispanic,salmonella,many granular,No,No,0,2,29
+16,9/6/1983,White,Male,Not Hispanic,salmonella,many granular,No,No,0,3,39
+16,9/6/1983,White,Male,Not Hispanic,salmonella,many granular,No,No,0,4,47
+16,9/6/1983,White,Male,Not Hispanic,salmonella,many granular,No,No,0,5,51
+17,7/11/1986,White,Female,Not Hispanic,sepsis,rare granular,No,No,0,0,39
+17,7/11/1986,White,Female,Not Hispanic,sepsis,rare granular,No,No,0,1,32
+17,7/11/1986,White,Female,Not Hispanic,sepsis,rare granular,No,No,0,2,37
+17,7/11/1986,White,Female,Not Hispanic,sepsis,rare granular,No,No,0,3,34
+17,7/11/1986,White,Female,Not Hispanic,sepsis,rare granular,No,No,0,4,48
+17,7/11/1986,White,Female,Not Hispanic,sepsis,rare granular,No,No,0,5,52
+19,6/9/1987,Black,Male,Hispanic,esophageal varices,many epithelial cell,Yes,No,0,0,22
+19,6/9/1987,Black,Male,Hispanic,esophageal varices,many epithelial cell,Yes,No,0,1,20
+19,6/9/1987,Black,Male,Hispanic,esophageal varices,many epithelial cell,Yes,No,0,2,24
+19,6/9/1987,Black,Male,Hispanic,esophageal varices,many epithelial cell,Yes,No,0,3,24
+19,6/9/1987,Black,Male,Hispanic,esophageal varices,many epithelial cell,Yes,No,0,4,39
+19,6/9/1987,Black,Male,Hispanic,esophageal varices,many epithelial cell,Yes,No,0,5,43
+20,3/29/1979,Caucasian,Female,Hispanic,dehydration,many granular,No,No,0,0,232
+20,3/29/1979,Caucasian,Female,Hispanic,dehydration,many granular,No,No,0,1,19
+20,3/29/1979,Caucasian,Female,Hispanic,dehydration,many granular,No,No,0,2,15
+20,3/29/1979,Caucasian,Female,Hispanic,dehydration,many granular,No,No,0,3,18
+20,3/29/1979,Caucasian,Female,Hispanic,dehydration,many granular,No,No,0,4,28
+20,3/29/1979,Caucasian,Female,Hispanic,dehydration,many granular,No,No,0,5,33
+21,8/11/1978,Caucasian,Female,Not Hispanic,high ostomy output,muddy brown,Yes,No,0,0,177
+21,8/11/1978,Caucasian,Female,Not Hispanic,high ostomy output,muddy brown,Yes,No,0,1,14
+21,8/11/1978,Caucasian,Female,Not Hispanic,high ostomy output,muddy brown,Yes,No,0,2,12
+21,8/11/1978,Caucasian,Female,Not Hispanic,high ostomy output,muddy brown,Yes,No,0,3,NA
+21,8/11/1978,Caucasian,Female,Not Hispanic,high ostomy output,muddy brown,Yes,No,0,4,28
+21,8/11/1978,Caucasian,Female,Not Hispanic,high ostomy output,muddy brown,Yes,No,0,5,35

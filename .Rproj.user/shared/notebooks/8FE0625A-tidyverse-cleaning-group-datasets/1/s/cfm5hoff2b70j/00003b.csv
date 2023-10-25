@@ -1,0 +1,10 @@
+"0","base_names %>% "
+"0","  map(~readxl::read_xlsx(.x,col_names = F)) %>% "
+"0","  set_names(base_names)  -> list_of_data_to_clean"
+"2","New names:"
+"2","New names:"
+"2","New names:"
+"2","New names:"
+"0","list_of_data_to_clean"
+"1","$messy_infarct.xlsx
+"
