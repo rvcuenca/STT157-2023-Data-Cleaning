@@ -21,7 +21,7 @@ library(tidyverse)
 ## Getting the Data Sets
 
 | Group No. | Members                                            | Data Set                                                                                                     | Link Base Name     |
-|-----------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------|
+|------------|--------------|----------------------------------|------------|
 | 1         | Jalop , Bobadilla, Tagbo, Badelles, Bayal, Inutan  | [Messy Infarct](https://github.com/higgi13425/medicaldata/raw/master/data-raw/messy_data/messy_infarct.xlsx) | messy_infarct.xlsx |
 | 2         | Bajao, Gapol, Mainit, Mancera, Plaza, Revelo       | [Messy Glucose](https://github.com/higgi13425/medicaldata/raw/master/data-raw/messy_data/messy_glucose.xlsx) | messy_glucose.xlsx |
 | 3         | Abaya, Indino, Lucaser, Manos, Rabago, Tala        | [Messy Aki](https://github.com/higgi13425/medicaldata/raw/master/data-raw/messy_data/messy_aki.xlsx)         | messy_aki.xlsx     |
@@ -81,6 +81,10 @@ Initial inspection of the list of data set shows that `infarct` is a pivot (wide
 
 #### Step 1: Create tidy combinations of row and column factor level combinations without NAs
 
+head(3) %\>%
+
+map(\~unique(.x))
+
 ```{r}
 # Extracting Row Factor Combinations; factor level order matters
 list_of_data_to_clean[[1]] %>% 
@@ -92,10 +96,12 @@ list_of_data_to_clean[[1]] %>%
 
 ```{r}
 # Extacting Column Names for Row Factor Combination; factor level order matters
-row_cmbn_names %>% map(~head(.x,1))
+row_cmbn_names %>% 
+  map(~head(.x,1))
 
 # Extacting Row Factor Levels
-row_cmbn_names %>% map(~`[`(.x,-1)) # excluding Hspanic; factor level order matters
+row_cmbn_names %>% 
+  map(~`[`(.x,-1)) # excluding Hspanic; factor level order matters
 
 # Row Factor Level Combinations of Pivot Table
 
