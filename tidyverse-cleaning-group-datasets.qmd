@@ -130,7 +130,7 @@ pv_infarct <- list_of_data_to_clean$messy_infarct.xlsx %>%
   "["(4:23,5:12) %>% # Extract counts only
   set_names(SSM_v) %>% # Set the names column factor combinations
   bind_cols(RHS_v, .) # the dot here means to include the counts table right  
-                          # after the new columns
+                      # after the new columns
 pv_infarct
 ```
 
